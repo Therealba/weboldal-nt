@@ -1,0 +1,451 @@
+#header-top1 {
+position: absolute;
+width: 501px;
+height: 23px;
+left: 96px;
+top: 25px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #929292;
+}
+
+#header-top2{
+position: absolute;
+width: 37px;
+height: 30px;
+left: 1495px;
+top: 13px;
+background: url(profil.png);
+}
+
+#header-top3 {
+position: absolute;
+width: 36px;
+height: 31px;
+left: 1538px;
+top: 12px;
+background: url(kereso.png);
+}
+
+#header-top4{
+position: absolute;
+width: 46px;
+height: 36px;
+left: 1568px;
+top: 10px;
+background: url(aruhaz.png);
+}
+
+#vonal{
+position: absolute;
+margin: 120px;
+width: 1640px;
+height: 16px;
+background: url(vonal.png);
+}
+
+#text1{
+position: absolute;
+width: 130px;
+height: 23px;
+left: 772px;
+top: 88px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #929292;
+}
+
+#text2{
+position: absolute;
+width: 71px;
+height: 23px;
+left: 960px;
+top: 88px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #929292;
+}
+
+#text3{
+position: absolute;
+width: 90px;
+height: 23px;
+left: 1100px;
+top: 88px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #929292;
+}
+
+#text4{
+position: absolute;
+width: 469px;
+height: 23px;
+left: 1255px;
+top: 88px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #929292;
+}
+
+
+#lakas{
+position: absolute;
+width: 124px;
+height: 16px;
+left: 183px;
+top: 151px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+color: #000000;
+}
+
+#house {
+    margin-left: 90px;
+    margin-top: 132px;
+    
+}
+
+#pontok{
+position: absolute;
+left: 320px;
+top: 133px;
+}
+
+#targyak{
+position: absolute;
+width: 100px;
+height: 14px;
+left: 387px;
+top: 150px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+color: #FFD691;
+}
+
+#pontok-cim {
+position: absolute;
+width: 66px;
+height: 37px;
+left: 303px;
+top: 121px;
+background: url(pontok.png);
+}
+
+#cim{
+position: absolute;
+width: 516px;
+height: 35px;
+left: 381px;
+top: 122px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+color: #000000;
+}
+
+#pontok-cim2 {
+position: absolute;
+width: 66px;
+height: 37px;
+left: 733px;
+top: 121px;
+background: url(pontok.png);
+}
+
+#box{
+position: absolute;
+width: 1667px;
+height: 58px;
+left: 124px;
+top: 308px;
+background: #FFFFFF;
+border: 1px solid #929292;
+box-sizing: border-box;
+}
+
+#termek1{
+position: absolute;
+width: 135px;
+height: 239px;
+left: 202px;
+top: 401px;
+background: url(termek1.png);
+}
+
+#termek1-szoveg{
+position: absolute;
+width: 469px;
+height: 23px;
+left: 175px;
+top: 661px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #000000;
+}
+
+#termek1-ar {
+margin-top: 10px;
+position: absolute;
+width: 109px;
+height: 35px;
+left: 175px;
+top: 699px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+color: #000000;
+}
+
+
+
+#termek2{
+    position: absolute;
+    width: 135px;
+    height: 239px;
+    left: 602px;
+    top: 401px;
+    background: url(termek2.png);
+    }
+    
+    #termek2-szoveg{
+    position: absolute;
+    width: 469px;
+    height: 23px;
+    left: 575px;
+    top: 661px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    }
+    
+    #termek2-ar {
+    margin-top: 10px;
+    position: absolute;
+    width: 109px;
+    height: 35px;
+    left: 575px;
+    top: 699px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    }
+
+    #termek3{
+        position: absolute;
+        width: 135px;
+        height: 239px;
+        left: 1002px;
+        top: 401px;
+        background: url(termek3.png);
+        }
+        
+        #termek3-szoveg{
+        position: absolute;
+        width: 469px;
+        height: 23px;
+        left: 975px;
+        top: 661px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        color: #000000;
+        }
+        
+        #termek3-ar {
+        margin-top: 10px;
+        position: absolute;
+        width: 109px;
+        height: 35px;
+        left: 975px;
+        top: 699px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+        color: #000000;
+        }
+
+        #termek4{
+            position: absolute;
+            width: 135px;
+            height: 239px;
+            left: 1402px;
+            top: 401px;
+            background: url(termek4.png);
+            }
+            
+            #termek4-szoveg{
+            position: absolute;
+            width: 469px;
+            height: 23px;
+            left: 1375px;
+            top: 661px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 23px;
+            color: #000000;
+            }
+            
+            #termek4-ar {
+            margin-top: 10px;
+            position: absolute;
+            width: 109px;
+            height: 35px;
+            left: 1375px;
+            top: 699px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 30px;
+            line-height: 35px;
+            color: #000000;
+            }
+    
+#popup-box{
+position: absolute;
+width: 1920px;
+height: 171px;
+left: 0px;
+top: 797px;
+background: #F8F8FA;
+border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;
+background-color: #f1f1f1;
+}
+
+#cookie{
+position: absolute;
+width: 164px;
+height: 23px;
+left: 53px;
+margin-top: 10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #000000;
+}
+
+#szoveg {
+position: absolute;
+width: 964px;
+height: 69px;
+left: 55px;
+margin-top: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #000000;
+}
+
+#nem{
+position: absolute;
+width: 150px;
+height: 20px;
+left: 1060px;
+top: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+color: #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#igen{
+position: absolute;
+width: 150px;
+height: 20px;
+left: 1400px;
+top: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+color: #000000;
+color: #FFD691;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button {
+    background-color: #929292 /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #929292;
+  }
+
+  .button1:hover {
+    background-color: #929292;
+    color: white;
+  }
+
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #FFD691;
+  }
+
+  .button2:hover {
+    background-color: #FFD691;
+    color: white;
+  }
